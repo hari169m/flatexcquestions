@@ -1,0 +1,31 @@
+  			FLAT EXCERSISE QUESTIONS SECOND YEAR SECOND SEMESTER
+
+1ST DAY OF CLASS								      DATE: 06-02-2022
+1.DEFINE THE FOLLOWING
+1) Symbol 2) Strings 3) Alphabets 4) Language 5) Regular Expressions
+with suitable examples
+2.Explain briefly about the Chomsky hierarchy of languages
+
+2nd DAY OF CLASS								      DATE: 07-02-2022
+1.Write the regular expression for the language of decimal odd numbers
+when represented in binary
+2.give a name for the language that satisfies the regular expression 
+(0+1)*
+3.write the regular expression for two languages
+1)L1={1,11,10,100,101,110,111...}
+2)L2={01,001,101,0010,1011,0001,0101,1001,1101,0100,0101,0110,0111..}
+
+3rd DAY OF CLASS								      DATE: 13-02-2022
+1.select any 10 typical languages and write regular expressions for 
+them 
+2.design a finite automata over ∑={1} such that it should accept 
+the string containing the number of 1's divisible by 3
+3.Design a finite automata over ∑={0,1} such that it accept the 
+string that ends with 0
+4.Design a finite automata over ={0,1} such that it accept the 
+string that starts with 1
+
+4th DAY OF CLASS								      DATE: 14-02-2022
+5.Design a Deterministic Finite Automata over ∑={0,1} such that it 
+should accept the strings containing the 's divisible by 3 and no
+of 1's divisible by 5
